@@ -1,7 +1,6 @@
 """
 PAPETIS — Outil de prévision mensuelle des ventes
-7 écrans — fidèle aux maquettes d'Assma (version finale)
-Auteure : Aya
+
 """
 
 import streamlit as st
